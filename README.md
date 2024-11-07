@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adri-018
 - 👀 I’m interested in Construction Engineering and Management.
-- 🌱 I’m currently learning about that yopic which I am interested in.
+- 🌱 I’m currently learning about that topic which I am interested in.
 - 💞️ I’m looking to collaborate on APi and integration platform on construction area.
 - 📫 How to reach me is to search on your browser.
 
